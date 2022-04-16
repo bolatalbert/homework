@@ -36,6 +36,21 @@ else:
 str_1 = input("Введите слова через пробел: ")
 print(str_1.replace(" ", "\n"))
 
+# задание 5
+
+list_rating = [7, 5, 3, 3, 2]
+x = int(input("Введите целое число: "))
+list_rating.append(x)
+list_rating.sort()
+list_rating.reverse()
+print(list_rating)
+
+
+
+
+
+
+
 
 
 
