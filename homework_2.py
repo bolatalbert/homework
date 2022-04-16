@@ -45,6 +45,7 @@ list_rating.sort()
 list_rating.reverse()
 print(list_rating)
 
+# КОНЕЦ
 
 
 
